@@ -1,14 +1,7 @@
-## Hodwini
+<div align="center">
+  <img width="128" src="https://github.com/LOLZMC/branding/raw/main/green.svg"/>
+  <h1>LOLZMC</h1>
+  Мы — официальная группа разработчиков, Minecraft-сервера «Hodwini».
 
-Группа разработчиков, Minecraft-проекта Hodwini.
-Мы предоставляем эко-систему для Minecraft-сервера нового поколения.
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  <a href="https://hodwini.ru" target="_blank">Наш сайт</a> | <a href="https://github.com/Hodwini/branding" target="_blank">Брендинг</a></p>
+</div>
