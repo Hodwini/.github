@@ -3,5 +3,5 @@
   <h1>Hodwini</h1>
   Мы — официальная группа разработчиков, Minecraft-сервера «Hodwini».
 
-  <a href="https://hodwini.ru" target="_blank">Наш сайт</a> | <a href="https://github.com/Hodwini/branding" target="_blank">Брендинг</a></p>
+  <a href="https://hodwini.net" target="_blank">Наш сайт</a> | <a href="https://github.com/Hodwini/branding" target="_blank">Брендинг</a></p>
 </div>
