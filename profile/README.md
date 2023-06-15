@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- <img width="128" src="https://github.com/LOLZMC/branding/raw/main/green.svg"/> -->
+  <!-- <img width="128" src="https://github.com/WeilRain/hodwini/blob/main/assets/img/IHL-3-S-_1_.webp"/> -->
   <h1>Hodwini</h1>
   Мы — официальная группа разработчиков, Minecraft-сервера «Hodwini».
 
