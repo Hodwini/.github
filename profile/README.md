@@ -15,6 +15,6 @@
 </div>
 
 <div align="center">
-  <h1>Мы переехали: <a href="https://git.hodwini.net">Git</a></h1>
+  <h1>Мы переехали: <a href="https://git.hodwini.net/Hodwini">Git</a></h1>
   
 </div>
