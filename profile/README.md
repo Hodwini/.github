@@ -5,8 +5,7 @@
 
   <div align="center">
   <p>
-    <b>Hodwini</b> — это про технологии, комьюнити и эксперименты.
-    <br/>Станешь частью нас?
+    <b>Hodwini</b> — Minecraft-проект.
     <br/><a href="https://hodwini.net">hodwini.net</a>
     
   </p>
